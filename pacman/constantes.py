@@ -1,0 +1,10 @@
+
+
+#Cores
+AMARELO = (255, 255, 0)
+PRETO = (0, 0, 0)
+
+
+#Tela
+TAMANHO_TELA =  (640, 480)
+CENTRO_TELA =   (320, 240)
